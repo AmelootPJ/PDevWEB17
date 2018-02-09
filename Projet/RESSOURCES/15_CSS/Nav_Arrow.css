@@ -1,0 +1,72 @@
+.Nav_Arrow
+{
+
+
+}
+
+.Nav_Arrow_Down
+
+{
+
+font-size: 0px; line-height: 0%; width: 0px;
+border-top: 20px solid #77c;
+border-left: 10px solid #f6f6f6;
+border-right: 10px solid #f6f6f6;
+
+}
+
+.Nav_Arrow_Up
+
+{
+	
+font-size: 0px; line-height: 0%; width: 0px;
+border-bottom: 20px solid #77c;
+border-left: 10px solid #f6f6f6;
+border-right: 10px solid #f6f6f6;
+
+}
+
+.Nav_Arrow_Left
+
+{
+	
+font-size: 0px; line-height: 0%; width: 0px;
+border-top: 10px solid #f6f6f6;
+border-right: 20px solid #77c;
+border-bottom: 10px solid #f6f6f6;
+
+}
+
+.Nav_Arrow_Right
+
+{
+
+font-size: 0px; line-height: 0%; width: 0px;
+border-top: 10px solid #f6f6f6;
+border-left: 20px solid #77c;
+border-bottom: 10px solid #f6f6f6;
+
+}
+
+.Nav_Arrow_HGlass
+
+{
+
+font-size: 0px; line-height: 0%; width: 0px;
+border-top: 20px solid #77c;
+border-left: 10px solid #f6f6f6;
+border-right: 10px solid #f6f6f6;
+border-bottom: 20px solid #77c;
+
+}
+.Nav_Arrow_SideHGlass
+
+{
+
+font-size: 0px; line-height: 0%; width: 0px;
+border-left: 20px solid #77c;
+border-top: 10px solid #f6f6f6;
+border-bottom: 10px solid #f6f6f6;
+border-right: 20px solid #77c;
+
+}

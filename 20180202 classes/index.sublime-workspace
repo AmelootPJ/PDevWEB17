@@ -1,0 +1,300 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tour",
+				"tour"
+			],
+			[
+				"print",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 124.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/ATC/PDevWEB17/20180202 classes/Ressources/Class/Personnage.php",
+		"/C/wamp/www/ATC/PDevWEB17/Projet/Index.php",
+		"/C/wamp/www/ATC/PDevWEB17/Projet/RESSOURCES/30_DDB/Eryun.sql",
+		"/C/WINDOWS/system32/http",
+		"/E/p/site/index.php",
+		"/C/wamp/www/ATC/PDevWEB17/Projet/RESSOURCES/FUNCTIONS/FctIPRetrieve0.php",
+		"/C/wamp/www/ATC/PDevWEB17/Serie5/S5P1FormContact.php",
+		"/C/wamp/www/0_OLD/ERYUN/Index.php",
+		"/C/wamp/www/ATC/PDevWEB17/Serie5/S5P1FormContact - Corrections et notes.php",
+		"/C/wamp/www/ATC/PDevWEB17/Serie5Corrected/page3.php",
+		"/C/wamp/www/ATC/PDevWEB17/Serie5Corrected/S5P1FormBPDeconnect.php",
+		"/C/wamp/www/ATC/PDevWEB17/Serie5/S5P1FormBPDeconnect.php",
+		"/C/wamp/www/ATC/PDevWEB17/Serie5Corrected/Serie5old.php",
+		"/C/wamp/www/ATC/PDevWEB17/Serie3/haut.php",
+		"/C/wamp/www/ATC/PDevWEB17/Serie3/Serie5.php",
+		"/C/wamp/www/ATC/PDevWEB17/Serie3/functions/loop.php",
+		"/C/wamp/www/ATC/PDevWEB17/Serie3/index.php",
+		"/C/wamp/www/0_OLD/proj/index.php",
+		"/C/wamp/www/ATC/PDevWEB17/Serie3/css/page.css",
+		"/C/wamp/www/ATC/PDevWEB17/Serie3/page1.php",
+		"/C/wamp/www/0_OLD/poo/index.php",
+		"/C/wamp/www/0_OLD/PHP/0 - VIERGE.php",
+		"/C/wamp/www/index.php",
+		"/C/wamp/www/ATC/PDevWEB17/Serie4/Serie4.php",
+		"/C/wamp/www/ATC/PDevWEB17_OLD/Exo1/Exo1P2Actu.php",
+		"/C/wamp/www/ATC/PDevWEB17_OLD/Exo1/Exo1P2Actu.HTML",
+		"/C/wamp/www/ATC/PDevWEB17_OLD/Exo1/RESSOURCES/page1.php",
+		"/C/wamp/www/ATC/PDevWEB17_OLD/Exo1/RESSOURCES/page2.php",
+		"/C/wamp/www/ATC/ProjRdGuglielmoInit/Serie02/page1.php",
+		"/C/wamp/www/ATC/PDevWEB17_OLD/Serie5/Exo1/Exo1P1.HTML",
+		"/C/wamp/www/ATC/PDevWEB17_OLD/Serie5/Exo1/Exo1P2.HTML",
+		"/C/wamp/www/ATC/PDevWEB17_OLD/Serie5/Exo1/index.php",
+		"/C/wamp/www/ATC/PDevWEB17_OLD/Exo1/Exo1P2Foot.HTML",
+		"/C/Users/Pierre-Jean/AppData/Local/Temp/Temp1_layout-BorderLayoutDemoProject.zip/layout-BorderLayoutDemoProject/build.xml",
+		"/C/Users/Pierre-Jean/AppData/Local/Temp/7zO63E5.tmp/Ex07.html",
+		"/C/wamp/www/ATC/ProjRdGuglielmoInit/Serie02/haut.php",
+		"/C/wamp/www/ATC/ProjRdGuglielmoInit/Serie02/page2.php",
+		"/C/wamp/www/ATC/ProjRdGuglielmoInit/Serie02/css/page.css",
+		"/C/wamp/www/ATC/ProjRdGuglielmoInit/Serie02/bas.php",
+		"/C/wamp/www/ATC/PDevWEB17/Serie5/connect.php",
+		"/C/wamp/www/0_OLD/proj/connect/connect.php",
+		"/C/wamp/www/0_OLD/site/connect.php",
+		"/C/wamp/www/0_OLD/php_login_v2.3/phplogin_v2.3/login.php",
+		"/C/wamp/www/0_OLD/poo/connect/connect.php",
+		"/C/wamp/www/0_OLD/site GBDD videotheque/index.php",
+		"/C/wamp/www/0_OLD/site GBDD videotheque/connect.php",
+		"/C/wamp/www/ATC/PDevWEB17/Serie5/classes/Form.php",
+		"/C/wamp/www/ATC/PDevWEB17/Serie5/S5P1FormContact - Copy.php",
+		"/C/wamp/www/ATC/PDevWEB17/Serie5/classes/IptBx.php",
+		"/C/wamp/www/ATC/PDevWEB17/Correctifswebbase/Serie9/css/page.css",
+		"/C/Users/Pierre-Jean/Desktop/CDS/PDevWeb/WebBase2017/Serie5/moncss.css",
+		"/C/wamp/www/0_OLD/site GBDD videotheque/style/style.css",
+		"/C/wamp/www/0_OLD/site GBDD videotheque/user/ajoutTitre.php",
+		"/C/wamp/www/ATC/PDevWEB17/Serie5/user/ajoutTitre.php",
+		"/C/wamp/www/ATC/PDevWEB17/Serie5/S5P1.html",
+		"/C/wamp/www/ATC/PDevWEB17/Serie5/cible.php",
+		"/C/wamp/www/0_OLD/GBDR/FORMULAIRES - EX 1.html",
+		"/C/wamp/www/0_OLD/GBDR/cible.php",
+		"/C/wamp/www/0_OLD/site GBDD videotheque/fonctions/fct-titres.php",
+		"/C/wamp/www/ATC/PDevWEB17/Serie5/S5P1.php",
+		"/C/wamp/www/ATC/PDevWEB17/Serie5/PageA.html",
+		"/C/Users/Pierre-Jean/Desktop/CDS/PDevWeb/WebBase2017/Serie5/Exe_recap1.html",
+		"/C/wamp/www/0_OLD/PHP/liste.php",
+		"/C/wamp/www/ATC/PDevWEB17/Serie4/Exo1P1.HTML",
+		"/C/wamp/www/ATC/PDevWEB17_OLD/Exo1/index555555.php",
+		"/C/wamp/www/ATC/PDevWEB17/Exo1/index555555.php",
+		"/C/EclipseWorkspace/CDS201718ATCPOO/doc/Exercice002/Test.html",
+		"/C/EclipseWorkspace/CDS201718ATCPOO/doc/allclasses-frame.html",
+		"/C/wamp/www/0_OLD/poo-jeremy/index.php",
+		"/C/wamp/www/ATC/PDevWEB17/Exo1/Exo1P2Actu.php",
+		"/C/wamp/www/ATC/PDevWEB17/Exo1/Exo1P2Foot.HTML",
+		"/C/wamp/www/ATC/PDevWEB17/Exo1/Exo1P2Actu.HTML",
+		"/C/wamp/www/ATC/PDevWEB17/Exo1/RESSOURCES/page2.php",
+		"/C/wamp/www/0_OLD/site/index.php",
+		"/C/wamp/www/ATC/PDevWEB17/Exo1/Exo1P1.HTML",
+		"/C/wamp/www/ATC/PDevWEB17/Exo1/RESSOURCES/page1.php",
+		"/C/wamp/www/ATC/PDevWEB17/Exo1/index.php",
+		"/C/wamp/www/0 - VIERGE.php",
+		"/C/wamp/www/ATC/PDevWEB17/Exo1/Exo1P2.HTML",
+		"/C/wamp/www/CH1_EX1.php",
+		"/C/wamp/www/ATC/PDevWEB17/Exo1/CH1_EX1.php",
+		"/C/wamp/www/0_OLD/index.php",
+		"/C/wamp/www/0_OLD/PHP/setcookie.php",
+		"/C/wamp/www/0_OLD/PHP/time.php",
+		"/C/wamp/www/0_OLD/PHP/login.php",
+		"/C/wamp/www/ATC/0 - VIERGE.php",
+		"/C/wamp/www/0_OLD/ALGO/cible.php",
+		"/C/wamp/www/0_OLD/PHP/CH1_EX1.php",
+		"/C/wamp/www/0_OLD/proj/user_connect.php",
+		"/C/wamp/www/0_OLD/exo/ex3.php",
+		"/C/wamp/www/ATC/PDevWEB17/index.php",
+		"/C/wamp/www/ERYUN/Index.php",
+		"/C/wamp/www/ERYUN/RESSOURCES/CSS/body.css",
+		"/C/wamp/www/ERYUN/RESSOURCES/SITE/default.php",
+		"/C/wamp/www/tp5/site/index.php",
+		"/G/PAM/40 INFORMATIQUE/55 ALGO/10 COURS/Ex08.html",
+		"/C/wamp/www/ERYUN/RESSOURCES/SITE/connect.php",
+		"/C/wamp/www/testmysql.php",
+		"/C/wamp/www/marienbad/pjagame.php",
+		"/C/Users/Pierre-Jean/AppData/Local/Temp/7zO8A57.tmp/sheet4.xml",
+		"/C/Users/Pierre-Jean/AppData/Local/Temp/7zOECD.tmp/sheet4.xml",
+		"/C/Users/Pierre-Jean/AppData/Local/Temp/7zO567A.tmp/sheet4.xml",
+		"/C/Users/Pierre-Jean/AppData/Local/Temp/7zO7396.tmp/sheet4.xml",
+		"/C/Users/Pierre-Jean/AppData/Local/Temp/7zO8D80.tmp/sheet4.xml",
+		"/C/Users/Pierre-Jean/AppData/Local/Temp/7zO3CC7.tmp/sheet4.xml",
+		"/C/Users/PIERRE~1/AppData/Local/Temp/7zE1C3B.tmp/sheet4.xml",
+		"/C/wamp/www/site/index.php",
+		"/C/wamp/www/ERYUN/RESSOURCES/FUNCTIONS/FCTIPRetrieveAdv.php",
+		"/C/wamp/www/ERYUN/RESSOURCES/FUNCTIONS/FCTIPRetrieveAdv0.php",
+		"/C/wamp/www/ERYUN/RESSOURCES/FUNCTIONS/memento",
+		"/C/wamp/www/ERYUN/RESSOURCES/FUNCTIONS/FctIPRetrieve1.php",
+		"/C/wamp/www/ERYUN/RESSOURCES/FUNCTIONS/FctIPRetrieve0.php",
+		"/C/wamp/www/ERYUN/vierge.php",
+		"/C/wamp/www/ERYUN/default.php",
+		"/C/wamp/www/ERYUN/RESSOURCES/CSS/Circular.css",
+		"/C/wamp/www/ERYUN/RESSOURCES/CSS/Nav_Arrow.css",
+		"/C/wamp/www/ERYUN/RESSOURCES/CSS/menu_h.css",
+		"/C/wamp/www/ERYUN/RESSOURCES/CSS/footer.css",
+		"/C/wamp/www/ERYUN/RESSOURCES/CSS/default.css",
+		"/C/wamp/www/ERYUN/RESSOURCES/MODS/default.html",
+		"/C/wamp/www/exo/ex5.php",
+		"/C/wamp/www/exo/ex4.php",
+		"/C/wamp/www/exo/ex3.php",
+		"/C/Users/Pierre-Jean/Documents/fichiertexte.txt",
+		"/F/MASTERMIND.php",
+		"/C/wamp/www/exo/ex4.html",
+		"/C/Users/Pierre-Jean/Desktop/ex3.php",
+		"/C/Users/Pierre-Jean/Desktop/ex4.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

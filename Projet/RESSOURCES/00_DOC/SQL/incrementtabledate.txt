@@ -1,0 +1,4 @@
+INSERT INTO `tblraces`(`Nom`, `Description`, `Divinité`) VALUES ([$RceNme],[$RceDescr],[$RceDiv])
+
+
+

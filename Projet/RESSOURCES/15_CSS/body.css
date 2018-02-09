@@ -1,0 +1,68 @@
+
+.part2_body
+{
+
+	position:relative;
+    top: 200px;
+    left: 200px;
+    height:200px;
+    width:85%;
+	float:right;
+    text-align:center;
+	background-color:transparent;
+    border-color: #000;
+    border-top-left-radius: 15em;
+    border-top-right-radius: 15em;
+    border-bottom-left-radius: 15em;
+    border-bottom-right-radius: 15em;
+	margin:5px;
+    padding:5px;
+    	/*background: -moz-radial-gradient(#7F3808 0pt, #087f7b 50%, #707070 51%, #808080 100%) repeat scroll 0 0 transparent;*/
+        /*background: -webkit-radial-gradient( #7F3808 0pt, #087f7b 50%, #707070 51%, #808080 100%) repeat scroll 0 0 transparent;*/
+        /*background: -ms-radial-gradient( #7F3808 0pt, #087f7b 50%, #707070 51%, #808080 100%) repeat scroll 0 0 transparent;*/
+        /*background: -o-radial-gradient( #7F3808 0pt, #087f7b 50%, #707070 51%, #808080 100%) repeat scroll 0 0 transparent;*/
+        /*background: radial-gradient( #7F3808 0pt, #087f7b 50%, #707070 51%, #808080 100%) repeat scroll 0 0 transparent;*/
+}
+.h_body
+{
+    color: #853894;
+    font-size: 30px
+    text-align: center;
+    font-weight:bold
+}
+.p_body
+{
+    color: #000;
+    font-size: 15px
+    text-align: center;
+}
+
+.bulle {
+	
+	position:relative;
+	width:300px;
+	border-radius:4px;
+	padding:20px;
+	background:#00aedf;
+	color:white;
+}
+
+.bulle.fleche {
+	
+	position:absolute;
+	top: 20px;
+	left:-20px;
+	widht:0;
+	height:0;
+	border-width:10px;
+	border-color:transparent #00aedf transparent transparent;
+	border-style:solid;
+}
+
+.circle
+
+{
+
+
+
+}

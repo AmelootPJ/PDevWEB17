@@ -1,0 +1,9 @@
+C:\wamp\www\ATC\PDevWEB17\Projet\RESSOURCES\30_DDB\Eryun\Database1\bin\Debug\Database1.dacpac
+C:\wamp\www\ATC\PDevWEB17\Projet\RESSOURCES\30_DDB\Eryun\Database1\bin\Debug\Database1.dll
+C:\wamp\www\ATC\PDevWEB17\Projet\RESSOURCES\30_DDB\Eryun\Database1\bin\Debug\Database1.pdb
+C:\wamp\www\ATC\PDevWEB17\Projet\RESSOURCES\30_DDB\Eryun\Database1\obj\Debug\Model.xml
+C:\wamp\www\ATC\PDevWEB17\Projet\RESSOURCES\30_DDB\Eryun\Database1\obj\Debug\refactor.xml
+C:\wamp\www\ATC\PDevWEB17\Projet\RESSOURCES\30_DDB\Eryun\Database1\obj\Debug\postdeploy.sql
+C:\wamp\www\ATC\PDevWEB17\Projet\RESSOURCES\30_DDB\Eryun\Database1\obj\Debug\predeploy.sql
+C:\wamp\www\ATC\PDevWEB17\Projet\RESSOURCES\30_DDB\Eryun\Database1\obj\Debug\Database1.dll
+C:\wamp\www\ATC\PDevWEB17\Projet\RESSOURCES\30_DDB\Eryun\Database1\obj\Debug\Database1.pdb
